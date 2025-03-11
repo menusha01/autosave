@@ -8,7 +8,7 @@ module.exports = {
     whiteList: process.env.WHITE_LIST ? process.env.WHITE_LIST.split(',') : [],
 
     fenixaboutype: process.env.FENIX_ABOUT_TYPE || 'Programming',
-    ownerNumber: process.env.OWNER_NUMBER || '94773010580',
+    ownerNumber: process.env.OWNER_NUMBER || '94760946628',
     userTimezone: process.env.USER_TIMEZONE || 'Asia/Colombo',
     FenixName: process.env.FENIX_NAME || 'Unknown Friend',
 
